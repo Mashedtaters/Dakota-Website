@@ -6,7 +6,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_singaporeskyline.jpeg");
+  background-image: url("http://i.imgur.com/CBp8eax.jpg");
   height: 400px;
   background-position: bottom center;
 }
