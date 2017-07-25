@@ -1,7 +1,9 @@
 body {
   padding: 0;
   margin: 0;
-  background-image: url("http://i.imgur.com/uLGUvJ9.jpg");
+  background-image: url("http://i.imgur.com/QivPMt7.jpg");
+  height: 100%;
+  background-size: cover;
   text-align: center;
 }
 
