@@ -8,10 +8,9 @@ body {
 }
 
 .jumbotron {
-  background-image: url("http://i.imgur.com/CBp8eax.jpg");
+  background-image:;
   height: 400px;
   background-position: bottom center;
-  visibility: hidden;
 }
 
 h1 {
